@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: XP-Feature-Flagging
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
